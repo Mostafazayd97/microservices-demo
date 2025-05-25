@@ -1,4 +1,4 @@
-package com.microservices.twitter.to.kafka.config;
+package com.microservices.config;
 
 
 import lombok.Data;
