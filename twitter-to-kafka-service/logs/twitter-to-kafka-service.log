@@ -1,0 +1,32 @@
+2025-04-12 11:47:41 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService using Java 21.0.4 with PID 14432 (D:\courses2\AmigosCode\microservices-demo\twitter-to-kafka-service\target\classes started by MostafaZayed in D:\courses2\AmigosCode\microservices-demo)
+2025-04-12 11:47:41 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2025-04-12 11:47:41 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Started TwitterToKafkaService in 1.031 seconds (process running for 2.017)
+2025-04-12 11:47:41 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Twitter To Kafka Starts
+2025-04-12 11:47:41 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - TwitterToKafkaServiceConfigData: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-12 11:49:25 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService using Java 21.0.4 with PID 18920 (D:\courses2\AmigosCode\microservices-demo\twitter-to-kafka-service\target\classes started by MostafaZayed in D:\courses2\AmigosCode\microservices-demo)
+2025-04-12 11:49:25 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2025-04-12 11:49:26 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Started TwitterToKafkaService in 0.906 seconds (process running for 1.693)
+2025-04-12 11:49:26 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Twitter To Kafka Starts
+2025-04-12 11:49:26 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - TwitterToKafkaServiceConfigData: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-12 11:49:26 [main] INFO  c.m.t.t.k.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-12 11:49:26 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text ipsum Maecenas pulvinar ipsum sed posuere sit pulvinar Java ultricies dolor Fusce amet congue lectus Fusce
+2025-04-12 11:49:36 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text amet pulvinar consectetuer sed Spring Lorem Maecenas
+2025-04-12 11:49:46 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text adipiscing Lorem dolor malesuada dolor Maecenas amet Kafka elit adipiscing congue purus amet massa
+2025-04-12 11:49:56 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text Lorem lectus lectus Elasticsearch libero adipiscing
+2025-04-12 11:50:06 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text massa posuere ultricies amet Microservices pulvinar malesuada
+2025-04-12 11:50:16 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text purus Fusce congue sed Java massa amet
+2025-04-12 11:50:26 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text congue ultricies consectetuer porttitor lectus magna porttitor ipsum Microservices congue ipsum magna amet magna purus posuere
+2025-04-12 11:50:36 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text libero ipsum sit sit ultricies consectetuer elit Kafka sit massa amet congue ultricies ultricies
+2025-04-12 11:50:46 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text Lorem Fusce malesuada purus Kafka sed purus
+2025-04-12 11:50:56 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text purus libero porttitor dolor libero consectetuer Fusce Microservices elit dolor sit elit libero amet
+2025-04-12 11:51:06 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text sed sed pulvinar Maecenas purus Fusce Microservices ipsum lectus dolor adipiscing
+2025-04-12 11:51:16 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text consectetuer sit elit malesuada porttitor amet malesuada elit Java consectetuer dolor Fusce consectetuer malesuada ultricies consectetuer
+2025-04-12 19:21:56 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService using Java 21.0.4 with PID 13624 (D:\courses2\AmigosCode\microservices-demo\twitter-to-kafka-service\target\classes started by MostafaZayed in D:\courses2\AmigosCode\microservices-demo)
+2025-04-12 19:21:56 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2025-04-12 19:21:56 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Started TwitterToKafkaService in 0.913 seconds (process running for 2.046)
+2025-04-12 19:21:56 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Twitter To Kafka Starts
+2025-04-12 19:21:56 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - TwitterToKafkaServiceConfigData: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-12 19:21:56 [main] INFO  c.m.t.t.k.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-12 19:21:56 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text porttitor sed ultricies dolor sed Fusce Kafka porttitor purus consectetuer Fusce
+2025-04-12 19:22:06 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text ultricies magna Maecenas lectus malesuada pulvinar Microservices malesuada adipiscing malesuada purus
+2025-04-12 19:22:16 [pool-2-thread-1] INFO  c.m.t.t.k.l.TwitterToKafkaListener - Twitter status with text Maecenas porttitor Lorem dolor Elasticsearch dolor ultricies

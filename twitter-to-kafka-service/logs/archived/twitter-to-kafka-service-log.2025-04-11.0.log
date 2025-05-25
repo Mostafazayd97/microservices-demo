@@ -1,0 +1,15 @@
+2025-04-11 14:59:20 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService using Java 21.0.4 with PID 9688 (D:\courses2\AmigosCode\microservices-demo\twitter-to-kafka-service\target\classes started by MostafaZayed in D:\courses2\AmigosCode\microservices-demo)
+2025-04-11 14:59:20 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2025-04-11 14:59:20 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Started TwitterToKafkaService in 1.517 seconds (process running for 2.959)
+2025-04-11 14:59:20 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService
+2025-04-11 14:59:20 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - TwitterToKafkaServiceConfigData: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-11 15:04:36 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService using Java 21.0.4 with PID 704 (D:\courses2\AmigosCode\microservices-demo\twitter-to-kafka-service\target\classes started by MostafaZayed in D:\courses2\AmigosCode\microservices-demo)
+2025-04-11 15:04:36 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2025-04-11 15:04:36 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Started TwitterToKafkaService in 0.808 seconds (process running for 1.551)
+2025-04-11 15:04:36 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Twitter To Kafka Starts
+2025-04-11 15:04:36 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - TwitterToKafkaServiceConfigData: [Java, Microservices, Spring, Kafka, Elasticsearch]
+2025-04-11 15:04:58 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Starting TwitterToKafkaService using Java 21.0.4 with PID 15040 (D:\courses2\AmigosCode\microservices-demo\twitter-to-kafka-service\target\classes started by MostafaZayed in D:\courses2\AmigosCode\microservices-demo)
+2025-04-11 15:04:58 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2025-04-11 15:04:58 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Started TwitterToKafkaService in 0.688 seconds (process running for 1.299)
+2025-04-11 15:04:58 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - Twitter To Kafka Starts
+2025-04-11 15:04:58 [main] INFO  c.m.t.to.kafka.TwitterToKafkaService - TwitterToKafkaServiceConfigData: [Java, Microservices, Spring, Kafka, Elasticsearch]
